@@ -16,7 +16,10 @@ CSS: Cascading Style Sheets for styling the user interface.
 
 # OUTPUT
 
+https://github.com/punamgawade29/CentrologicAssignment-2-Calculator-/assets/141442107/3259a2dd-7776-4036-ac68-987be5e04cf6
 
 
-https://github.com/punamgawade29/CentrologicAssignment-2-Calculator-/assets/141442107/d7f87662-0f5a-462e-8dfc-62f1532b1968
+
+
+
 
