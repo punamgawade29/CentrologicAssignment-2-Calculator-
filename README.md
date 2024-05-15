@@ -16,8 +16,7 @@ CSS: Cascading Style Sheets for styling the user interface.
 
 # OUTPUT
 
-Uploading React App - Google Chrome 2024-05-15 11-49-28.mp4…
 
 
-
+https://github.com/punamgawade29/CentrologicAssignment-2-Calculator-/assets/141442107/d7f87662-0f5a-462e-8dfc-62f1532b1968
 
