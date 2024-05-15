@@ -13,3 +13,11 @@ React Hooks Implementation: The calculator is built using React Hooks, which sim
 ReactJS: A popular JavaScript library for building user interfaces.
 React Hooks: Used for state management and other React features without writing a class.
 CSS: Cascading Style Sheets for styling the user interface.
+
+# OUTPUT
+
+Uploading React App - Google Chrome 2024-05-15 11-49-28.mp4…
+
+
+
+
